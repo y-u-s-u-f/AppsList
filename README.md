@@ -1,45 +1,62 @@
 # All My Apps
 
+- [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) - Ad blocker (Free).
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Photo editor (Paid).
+- [Aiko](https://sindresorhus.com/aiko)
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt tab on Mac (Open source).
 - [Amie](https://www.amie.so/) - Calendar and tasks in one app (Free).
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Delete apps the proper way (Free).
 - [Arc](arc.net) - Amazing browser (Free).
+- [Background Music](https://github.com/kyleneideck/BackgroundMusic) - Audio utility (Open source).
 - [Bartender 4](https://www.macbartender.com/) - Hide your menu bar ($16, available on Setapp).
 - [BetterDiscord](https://betterdiscord.app/) - Extend the functionality of Discord (Free).
 - [BetterTouchTool](https://folivora.ai/) - Customize various input devices ($10 for two years of updates, $22 for lifetime updates, available on Setapp).
 - [Bitwarden](https://bitwarden.com/) - Password manager (Open source).
+- [Canary Mail](https://canarymail.io/) - Mail app (Freemium).
 - [CleanMyMac X](https://macpaw.com/cleanmymac) - Awesomize your Mac ($40 yearly or $90 one time, available on Setapp).
 - [CleanShot X](https://cleanshot.com/) - Screenshot tool ($29, available on Setapp).
+- [ColorSlurp](https://colorslurp.com/) - Color picker (Freemium)
 - [Craft](https://www.craft.do/) - Note taking app (Freemium).
+- [Cron](cron.com) - Calendar app (Freemium) 
 - [Dato](https://sindresorhus.com/dato) - Menu bar calendar & time zones ($8, available on Setapp).
 - [Discord](discord.com) - No explanation needed.
 - [Downie 4](https://software.charliemonroe.net/downie/) - Video downloader ($20, available on Setapp)
-- [Dropzone 4](https://aptonic.com/) 
-- [feeeed](https://feeeed.nateparrott.com/)
-- [Folx](https://www.mac-downloader.com/)
-- [Gestimer](https://maddin.io/gestimer/)
+- [Dropzone 4](https://aptonic.com/) - Quick actions with files (Freemium)
+- [feeeed](https://feeeed.nateparrott.com/) - RSS reader (Free)
+- [Folx](https://www.mac-downloader.com/) - Download manager (Freemium)
+- [Gestimer](https://maddin.io/gestimer/) - Quick way to make reminders from menu bar (Paid)
+- [Grammarly](https://www.grammarly.com/) - Grammar checker (Freemium).
+- [Hazeover](https://hazeover.com/)
 - [Hush](https://oblador.github.io/hush/)
 - [Hyperkey](https://hyperkey.app/)
+- [IINA](https://iina.io/)
 - [ImageOptim](https://imageoptim.com/mac)
 - [Keka](https://www.keka.io/en/)
 - [KeyClu](https://github.com/Anze/KeyCluCask/)
+- [kitty](https://sw.kovidgoyal.net/kitty/)
 - [Lasso](https://thelasso.app/)
 - [MacGPT](https://www.macgpt.com/)
 - [MacUpdater](https://www.corecode.io/macupdater/)
+- [Numi](https://numi.app/) 
 - [One Switch](https://fireball.studio/oneswitch/)
 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
 - [Orion](https://browser.kagi.com/)
 - [PastePal](https://onmyway133.com/pastepal/)
 - [Pictogram](https://pictogramapp.com/)
 - [PlayCover](https://playcover.io/)
+- [Raindrop](https://raindrop.io/)
 - [Raycast](https://www.raycast.com/)
 - [Rectangle](https://rectangleapp.com/)
+- [ShortcutDetective](https://www.irradiatedsoftware.com/labs/)  
 - [Sleeve](https://replay.software/sleeve)
 - [Speediness](https://sindresorhus.com/speediness)
 - [Spotify](https://spotify.com/)
 - [TempBox](https://tempbox.waseem.works/)
 - [TextPal](https://www.textpal.app/)
+- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html)
+- [UTM](https://mac.getutm.app/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Widgy](https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481)
+- [Yoink](https://eternalstorms.at/yoink/mac/)
 - [Zoom](https://zoom.us/)
 
