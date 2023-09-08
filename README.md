@@ -1,7 +1,3 @@
-# All My Apps
-
-| App                | Description                                                                                    |
-|-------------------------|---------------------------------------------------------------------------------------------|
 | [**AltTab**](https://alt-tab-macos.netlify.app/)              | Windows alt tab on Mac (Open source).                                                       |
 | [**Amie**](https://www.amie.so/)                | Calendar and tasks in one app (Free).                                                       |
 | [**AppCleaner**](https://freemacsoft.net/appcleaner/)          | Delete apps the proper way (Free).                                                          |
@@ -44,4 +40,3 @@
 | [**Visual Studio Code**](https://code.visualstudio.com/)    | A free source code editor developed by Microsoft.                                            |
 | [**Widgy**](https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481)     | A widget app for customizing your iOS home screen and lock screen.                            |
 | [**Zoom**](https://zoom.us/)               | Video conferencing and online meeting platform.                                              |
-
