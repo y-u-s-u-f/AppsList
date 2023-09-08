@@ -2,7 +2,7 @@
 
 - [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) - Ad blocker (Free).
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Photo editor (Paid).
-- [Aiko](https://sindresorhus.com/aiko)
+- [Aiko](https://sindresorhus.com/aiko) - Audio transcriber (Free)
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows alt tab on Mac (Open source).
 - [Amie](https://www.amie.so/) - Calendar and tasks in one app (Free).
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Delete apps the proper way (Free).
@@ -26,37 +26,36 @@
 - [Folx](https://www.mac-downloader.com/) - Download manager (Freemium)
 - [Gestimer](https://maddin.io/gestimer/) - Quick way to make reminders from menu bar (Paid)
 - [Grammarly](https://www.grammarly.com/) - Grammar checker (Freemium).
-- [Hazeover](https://hazeover.com/)
-- [Hush](https://oblador.github.io/hush/)
-- [Hyperkey](https://hyperkey.app/)
-- [IINA](https://iina.io/)
-- [ImageOptim](https://imageoptim.com/mac)
-- [Keka](https://www.keka.io/en/)
-- [KeyClu](https://github.com/Anze/KeyCluCask/)
-- [kitty](https://sw.kovidgoyal.net/kitty/)
-- [Lasso](https://thelasso.app/)
-- [MacGPT](https://www.macgpt.com/)
-- [MacUpdater](https://www.corecode.io/macupdater/)
-- [Numi](https://numi.app/) 
-- [One Switch](https://fireball.studio/oneswitch/)
-- [OnyX](https://www.titanium-software.fr/en/onyx.html)
-- [Orion](https://browser.kagi.com/)
-- [PastePal](https://onmyway133.com/pastepal/)
-- [Pictogram](https://pictogramapp.com/)
-- [PlayCover](https://playcover.io/)
-- [Raindrop](https://raindrop.io/)
-- [Raycast](https://www.raycast.com/)
-- [Rectangle](https://rectangleapp.com/)
-- [ShortcutDetective](https://www.irradiatedsoftware.com/labs/)  
-- [Sleeve](https://replay.software/sleeve)
-- [Speediness](https://sindresorhus.com/speediness)
-- [Spotify](https://spotify.com/)
-- [TempBox](https://tempbox.waseem.works/)
-- [TextPal](https://www.textpal.app/)
-- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html)
-- [UTM](https://mac.getutm.app/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Widgy](https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481)
-- [Yoink](https://eternalstorms.at/yoink/mac/)
-- [Zoom](https://zoom.us/)
+- [Hazeover](https://hazeover.com/) - Dim background windows (Paid).
+- [Hush](https://oblador.github.io/hush/) - Block cookie requests on Safari (Free).
+- [Hyperkey](https://hyperkey.app/) - Turn caps lock into ⌥ + ⌃ + ⌘ + ⇧ (Free).
+- [IINA](https://iina.io/) - Modern video player (Open source).
+- [ImageOptim](https://imageoptim.com/mac) - Reduce image size without reducing the quality (Open source)
+- [Keka](https://www.keka.io/en/) - File unarchiver (Free)
+- [KeyClu](https://github.com/Anze/KeyCluCask/) - Cheatsheet alternative (Free)
+- [kitty](https://sw.kovidgoyal.net/kitty/) - Fast lightweight terminal (Open source)
+- [Lasso](https://thelasso.app/) - Window manager (Paid)
+- [MacGPT](https://www.macgpt.com/) - MacGPT on your Mac and menu bar (Free)
+- [MacUpdater](https://www.corecode.io/macupdater/) - Best updater out there (Paid)
+- [Numi](https://numi.app/) - Fuzzy conversions (Freemium)
+- [Only Switch](https://www.jacklandrin.com/2021/12/01/onlyswitch/) - All your important switches in the menu bar (Open source).
+- [OnyX](https://www.titanium-software.fr/en/onyx.html) - System actions (Free)
+- [Orion](https://browser.kagi.com/) - Amazing Safari alternative (Free)
+- [PastePal](https://onmyway133.com/pastepal/) - Best clipboard manager (Paid)
+- [Pictogram](https://pictogramapp.com/) - Change app icons (Free)
+- [PlayCover](https://playcover.io/) - Use ios apps on M1 macs (Free)
+- [Raindrop](https://raindrop.io/) - Bookmark manager (Freemium)
+- [Raycast](https://www.raycast.com/) - Spotlight alternative (Freemium)
+- [Rectangle](https://rectangleapp.com/) - Window manager (Freemium)
+- [Sleeve](https://replay.software/sleeve) - Now playing widget (Paid)
+- [Speediness](https://sindresorhus.com/speediness) - Speedtest (Free)
+- [Spotify](https://spotify.com/) - No explanation needed 
+- [TempBox](https://tempbox.waseem.works/) - Temporary emails (Free)
+- [TextPal](https://www.textpal.app/) - Super fast emoji picker (Free)
+- [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Cool features (Free)
+- [UTM](https://mac.getutm.app/) - Paralells alternative (Free)
+- [Visual Studio Code](https://code.visualstudio.com/) - Best IDE (Free)
+- [Widgy](https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481) - Widgets maker (Freemium)
+- [Yoink](https://eternalstorms.at/yoink/mac/) - Temporary file shelf (Paid)
+- [Zoom](https://zoom.us/) - No explanation needed.
 
