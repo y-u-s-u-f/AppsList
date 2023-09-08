@@ -16,7 +16,7 @@
 - [CleanMyMac X](https://macpaw.com/cleanmymac) - Awesomize your Mac ($40 yearly or $90 one time, available on Setapp).
 - [CleanShot X](https://cleanshot.com/) - Screenshot tool ($29, available on Setapp).
 - [ColorSlurp](https://colorslurp.com/) - Color picker (Freemium)
-- [Craft](https://www.craft.do/) - Note taking app (Freemium).
+- [Craft](https://www.craft.do/) - Note taking app (Freemium, available on Setapp).
 - [Cron](cron.com) - Calendar app (Freemium) 
 - [Dato](https://sindresorhus.com/dato) - Menu bar calendar & time zones ($8, available on Setapp).
 - [Discord](discord.com) - No explanation needed.
