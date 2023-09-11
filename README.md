@@ -24,7 +24,6 @@
 - [Dropzone 4](https://aptonic.com/) - Quick actions with files (Freemium)
 - [feeeed](https://feeeed.nateparrott.com/) - RSS reader (Free)
 - [Folx](https://www.mac-downloader.com/) - Download manager (Freemium)
-- [Gestimer](https://maddin.io/gestimer/) - Quick way to make reminders from menu bar (Paid)
 - [Grammarly](https://www.grammarly.com/) - Grammar checker (Freemium).
 - [Hazeover](https://hazeover.com/) - Dim background windows (Paid).
 - [Hush](https://oblador.github.io/hush/) - Block cookie requests on Safari (Free).
