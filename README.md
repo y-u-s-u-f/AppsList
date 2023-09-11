@@ -53,8 +53,7 @@
 - [TempBox](https://tempbox.waseem.works/) - Temporary emails (Free)
 - [TextPal](https://www.textpal.app/) - Super fast emoji picker (Free)
 - [TinkerTool](http://www.bresink.com/osx/TinkerTool.html) - Cool features (Free)
-- [UTM](https://mac.getutm.app/) - Paralells alternative (Free)
-- [Visual Studio Code](https://code.visualstudio.com/) - Best IDE (Free)
+- [Visual Studio Code](https://code.visualstudio.com/) - IDE (Free)
 - [Widgy](https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481) - Widgets maker (Freemium)
 - [Yoink](https://eternalstorms.at/yoink/mac/) - Temporary file shelf (Paid)
 - [Zoom](https://zoom.us/) - No explanation needed.
