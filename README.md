@@ -52,7 +52,6 @@
 - [Permute 3](https://software.charliemonroe.net/permute/) - Media converter ($14.99).
 - [Pictogram](https://pictogramapp.com/) - Change app icons (Free).
 - [PlayCover](https://playcover.io/) - Use iOS apps on M1 Macs (Free).
-- [Pray Watch](https://apps.apple.com/us/app/pray-watch/id1555900343) - Muslim Prayer time reminder (Free).
 - [ProtonVPN](https://protonvpn.com/) - Secure VPN service (Freemium).
 - [Raycast](https://www.raycast.com/) - Spotlight alternative (Freemium).
 - [Rectangle Pro](https://rectangleapp.com/) - Window manager (Freemium).
@@ -66,7 +65,6 @@
 - [Speediness](https://sindresorhus.com/speediness) - Speedtest (Free).
 - [Spotify](https://www.spotify.com/) - Music streaming service (Freemium).
 - [Steam](https://store.steampowered.com/) - Gaming platform (Free, games may have various pricing).
-- [Tarteel](https://apps.apple.com/us/app/tarteel-quran-memorization/id1391009396) - Your AI Quran Companion (Free).
 - [TempBox](https://tempbox.waseem.works/) - Temporary emails (Free).
 - [TextPal](https://www.textpal.app/) - Super fast emoji picker (Free).
 - [TextSniper](https://textsniper.app/) - Extract text from images ($6.99).
